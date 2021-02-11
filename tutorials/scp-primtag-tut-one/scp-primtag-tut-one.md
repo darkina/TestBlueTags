@@ -1,7 +1,7 @@
 ---
 title: SCP Primary Tag Tutorial One
 description: Set up trust between SAP Cloud Platform Identity Authentication Service
-primary_tag: products:tech>73555000100700000172
+primary_tag: products>73555000100700000172
 tags: [  tutorial>beginner, topic>abap-development, topic>abap-extensibility ]
 time: 25
 author_name: Ulrike Liebherr
