@@ -2,7 +2,7 @@
 title: Dos Tutorial With BTP Tag As Secondary
 description: Bla bla bla
 auto_validation: true
-time: 10
+time: 20
 tags: [ tutorial>intermediate, products>sap-business-technology-platform ]
 primary_tag: topic>abap-development
 ---
